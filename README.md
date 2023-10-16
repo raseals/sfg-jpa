@@ -1,2 +1,2 @@
-# sfg-jpa
-Spring Framework Guru JPA Course
+# Spring Data JPA
+
